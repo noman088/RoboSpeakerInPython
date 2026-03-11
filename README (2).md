@@ -19,7 +19,7 @@ To deploy this project run on vs code or any other IDE
 ## 🚀 About Me
 I'm a (CSE) Student @RGPV University...
 
-github- noman088
+github- https://github.com/noman088
 
 How to reach me -mdnoman70499@gmail.com
 
